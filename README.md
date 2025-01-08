@@ -16,4 +16,6 @@
 - navigation.md 추가
 
 
+## 푸터 추가
+- foorter.md 추가
 
